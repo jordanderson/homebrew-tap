@@ -2,7 +2,7 @@ class Postgis < Formula
   desc "Adds support for geographic objects to PostgreSQL"
   homepage "https://postgis.net/"
   url "https://download.osgeo.org/postgis/source/postgis-2.4.7.tar.gz"
-  sha256 "0663efb589210d5048d95c817e5cf29552ec8180e16d4c6ef56c94255faca8c2"
+  sha256 "4ede3cd1c11af7635fc242ba319a1fbdf3ff74a9f75c6536d0b5007fd1e69657"
   revision 1
 
   head do
